@@ -1,0 +1,4 @@
+1.Create a file called "file2" in a folder using random generator in the same directory with the binary generated after compiled
+eg. $ dd if=/dev/urandom of=file2 bs=1000 count=1000
+,or create a file called "file2" in the same directory as the binary and write into it.
+2.Run the program. 
